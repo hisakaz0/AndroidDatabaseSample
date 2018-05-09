@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DatabaseApplication</string>
+    <string-array name="lvIdols">
+        <item>しゅがは</item>
+        <item>25歳児</item>
+        <item>ワイン</item>
+        <item>ワイルドギャング</item>
+        <item>わかるわ、、、</item>
+    </string-array>
+    <string name="tvIdolNameLabel">アイドル名</string>
+    <string name="tvIdolName">未選択</string>
+    <string name="tvIdolProfileLabel">プロフィール</string>
+    <string name="btnSaveIdol">保存</string>
+</resources>
